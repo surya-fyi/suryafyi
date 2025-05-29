@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog!
 
-Hello world!
+body: Hello world!
 ---
