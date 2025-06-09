@@ -1,23 +1,32 @@
-# Welcome to My Corner of the Web!
+---
+layout: home
+title: Home
+---
 
-Hi there! I'm [Your Name/Your Site's Name].
+# Hey, I am Surya
 
-I'm passionate about [mention 1-2 key interests, e.g., "exploring the latest in technology," "sharing insights on minimalist living," "documenting my coding journey," "all things books and coffee"]. This space is where I [mention purpose of the site, e.g., "share my thoughts, projects, and discoveries," "post articles and reviews," "connect with like-minded individuals"].
+### Software Engineer & Tech Enthusiast
 
-## What You'll Find Here
+I am passionate about software engineering, system design, and building scalable applications. This space is where I share my thoughts, experiences, and learnings from my journey in technology.
 
-Here, I aim to provide [mention type of content, e.g., "in-depth articles," "quick tips," "personal reflections," "project showcases"]. Whether you're interested in [mention a specific topic] or just curious about [mention another topic], I hope you find something valuable or inspiring.
+## Recent Blog Posts
 
-* **Blog/Articles:** [Briefly describe your blog focus, e.g., "Dive into posts about [topic 1], [topic 2], and more."]
-* **Projects:** [If applicable, e.g., "Check out some of the things I've been working on."]
-* **About Me:** [e.g., "Learn a little more about who I am and what drives me."]
+{% for post in site.posts limit:5 %}
+* {{ post.date | date: "%b %d, %Y" }} : [{{ post.title }}]({{ post.url | relative_url }})
+{% endfor %}
 
-## Get in Touch
+[View all posts →](/blog)
 
-I'm always open to connecting and discussing new ideas. Feel free to reach out via [mention preferred contact method, e.g., "email at your.email@example.com," "Twitter @YourTwitterHandle," "LinkedIn"].
+## Newsletter
 
-Thanks for stopping by!
+Join my newsletter to receive weekly updates on software engineering, system design, and technology insights.
+
+[Subscribe on LinkedIn](https://linkedin.com/in/your-profile) | [Subscribe on Substack](https://your-substack.substack.com)
+
+## Connect With Me
+
+[GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-profile) | [Twitter](https://twitter.com/your-handle)
 
 ---
 
-*Last updated: May 2025*
+*Last updated: {{ site.time | date: "%B %Y" }}*

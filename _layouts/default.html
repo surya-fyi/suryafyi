@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    <header class="site-header">
+      <div class="wrapper">
+        <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+        <nav class="site-nav">
+          <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+          <label for="nav-trigger">
+            <span class="menu-icon">
+              <svg viewBox="0 0 18 15" width="18px" height="15px">
+                <path d="M18 1.484c0 .82-.665 1.484-1.484 1.484H1.484C.665 2.969 0 2.304 0 1.484c0-.82.665-1.484 1.484-1.484h15.032c.82 0 1.484.665 1.484 1.484zm0 6.516c0 .82-.665 1.484-1.484 1.484H1.484C.665 9.484 0 8.82 0 8c0-.82.665-1.484 1.484-1.484h15.032c.82 0 1.484.665 1.484 1.484zm0 6.516c0 .82-.665 1.484-1.484 1.484H1.484C.665 16 0 15.336 0 14.516c0-.82.665-1.484 1.484-1.484h15.032c.82 0 1.484.665 1.484 1.484z"/>
+              </svg>
+            </span>
+          </label>
+          <div class="trigger">
+            <a class="page-link" href="{{ "/" | relative_url }}">Home</a>
+            <a class="page-link" href="{{ "/blog" | relative_url }}">Blog</a>
+            <a class="page-link" href="{{ "/about" | relative_url }}">About</a>
+          </div>
+        </nav>
+      </div>
+    </header>
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrapper">
+        <div class="footer-col-wrapper">
+          <div class="footer-col">
+            <p>{{ site.description | escape }}</p>
+          </div>
+          <div class="footer-col">
+            <ul class="social-media-list">
+              {% if site.github_username %}
+              <li>
+                <a href="https://github.com/{{ site.github_username| cgi_escape | escape }}">
+                  <span class="username">GitHub</span>
+                </a>
+              </li>
+              {% endif %}
+              {% if site.twitter_username %}
+              <li>
+                <a href="https://twitter.com/{{ site.twitter_username| cgi_escape | escape }}">
+                  <span class="username">Twitter</span>
+                </a>
+              </li>
+              {% endif %}
+              {% if site.linkedin_username %}
+              <li>
+                <a href="https://linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}">
+                  <span class="username">LinkedIn</span>
+                </a>
+              </li>
+              {% endif %}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html> 
