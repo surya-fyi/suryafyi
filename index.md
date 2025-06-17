@@ -13,7 +13,7 @@ I am a **Software Engineer** passionate about building scalable applications and
 |------|-------|
 | Coming Soon | [First Blog Post](/blog) |
 
-## Get in Touch
+[View all posts →](/blog)
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/suryaprakash-shanmugam/).
 
