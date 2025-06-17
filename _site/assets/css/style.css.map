@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["style.scss"],"names":[],"mappings":"AAAQ;AAER;EACE","sourcesContent":["@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@8..24,200..800&display=swap');\n\nbody {\n  font-family: 'Bricolage Grotesque', sans-serif;\n}"],"file":"style.css"}

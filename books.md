@@ -3,30 +3,42 @@ layout: default
 title: Books
 ---
 
-# Books
+# Bookshelf
 
-Here are some of my favorite books and reading statistics from [Goodreads](https://www.goodreads.com/user/show/54757933-suryaprakash-shanmugam).
+## Currently Reading
+
+- Crime and Punishment by Fyodor Dostoevsky (49% complete)
 
 ## Favorite Books
 
-*   The Death of Ivan Ilych by Leo Tolstoy
-*   "Surely You're Joking, Mr. Feynman!" by Richard P. Feynman
-*   Climbing Mount Improbable by Richard Dawkins
-*   The Picture of Dorian Gray by Oscar Wilde
-*   The God Delusion by Richard Dawkins
-*   Siddartha by Hermann Hesse
-*   The Beginning of Infinity by David Deutsch
-*   The Gene by Siddhartha Mukherjee
-*   Notes from Underground by Fyodor Dostoevsky
-*   Educated by Tara Westover
-*   The Molecule of More by Daniel Z. Lieberman
+Here are some of my favorite books that have had a significant impact on me:
 
-## Bookshelves
+### Fiction
+- The Death of Ivan Ilych by Leo Tolstoy
+- The Picture of Dorian Gray by Oscar Wilde
+- Notes from Underground by Fyodor Dostoevsky
+- Siddartha by Hermann Hesse
 
-*   To Read: 85 books
-*   Currently Reading: 1 book (Crime and Punishment by Fyodor Dostoevsky as of Aug 25, 2023)
-*   Read: 31 books
+### Non-Fiction
+- Surely You're Joking, Mr. Feynman! by Richard P. Feynman
+- Climbing Mount Improbable by Richard Dawkins
+- The God Delusion by Richard Dawkins
+- The Beginning of Infinity by David Deutsch
+- The Gene by Siddhartha Mukherjee
+- Educated by Tara Westover
+- The Molecule of More by Daniel Z. Lieberman
 
-## Reading Challenge
+## Reading Challenge 2024
 
-Suryaprakash has read 1 of 12 books for the 2025 Reading Challenge (8% complete). 
+I'm participating in the 2024 Reading Challenge on Goodreads. You can follow my progress on my [Goodreads profile](https://www.goodreads.com/user/show/54757933-suryaprakash-shanmugam).
+
+## Favorite Genres
+
+- Fiction
+- Historical Fiction
+- Mystery
+- Non-fiction
+- Science Fiction
+- Thriller
+
+--- 

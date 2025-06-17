@@ -1,23 +1,20 @@
-# Welcome to My Corner of the Web!
+---
+layout: default
+title: Home
+---
 
-Hi there! I'm [Your Name/Your Site's Name].
+# Suryaprakash Shanmugam
 
-I'm passionate about [mention 1-2 key interests, e.g., "exploring the latest in technology," "sharing insights on minimalist living," "documenting my coding journey," "all things books and coffee"]. This space is where I [mention purpose of the site, e.g., "share my thoughts, projects, and discoveries," "post articles and reviews," "connect with like-minded individuals"].
+I am a **Software Engineer** passionate about building scalable applications and exploring new technologies. My interests span across software development, artificial intelligence, and distributed systems.
 
-## What You'll Find Here
+## Latest Posts
 
-Here, I aim to provide [mention type of content, e.g., "in-depth articles," "quick tips," "personal reflections," "project showcases"]. Whether you're interested in [mention a specific topic] or just curious about [mention another topic], I hope you find something valuable or inspiring.
-
-* **Blog/Articles:** [Briefly describe your blog focus, e.g., "Dive into posts about [topic 1], [topic 2], and more."]
-* **Projects:** [If applicable, e.g., "Check out some of the things I've been working on."]
-* **About Me:** [e.g., "Learn a little more about who I am and what drives me."]
+| Date | Title |
+|------|-------|
+| Coming Soon | [First Blog Post](/blog) |
 
 ## Get in Touch
 
-I'm always open to connecting and discussing new ideas. Feel free to reach out via [mention preferred contact method, e.g., "email at your.email@example.com," "Twitter @YourTwitterHandle," "LinkedIn"].
-
-Thanks for stopping by!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/suryaprakash-shanmugam/).
 
 ---
-
-*Last updated: May 2025*

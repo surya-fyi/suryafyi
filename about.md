@@ -5,8 +5,21 @@ title: About
 
 # About Me
 
-Suryaprakash Shanmugam is an avid reader with a keen interest in a variety of genres including Fiction, Historical Fiction, Mystery, Non-fiction, Science Fiction, and Thriller.
+I am a Software Engineer with a passion for building scalable applications and exploring new technologies. My interests span across software development, artificial intelligence, and distributed systems.
 
-According to Goodreads, Suryaprakash has rated 24 books with an average rating of 4.50 and has written 5 reviews.
+## Professional Experience
 
-You can find more about his reading journey on [Goodreads](https://www.goodreads.com/user/show/54757933-suryaprakash-shanmugam) and connect with him on X (formerly Twitter) [@suryafyi](https://x.com/suryafyi). 
+I have experience working on various aspects of software development, from building web applications to implementing machine learning solutions. I'm particularly interested in Machine Learning & AI.
+
+## Personal Interests
+
+When I'm not coding, you can find me:
+- Reading books (check out my [Goodreads profile](https://www.goodreads.com/user/show/54757933-suryaprakash-shanmugam))
+- Exploring new technologies
+- Contributing to open-source projects
+
+## Get in Touch
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/suryaprakash-shanmugam/).
+
+--- 

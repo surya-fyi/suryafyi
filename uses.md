@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stuff I Use
+title: Uses
 ---
 
 # Stuff I Use
